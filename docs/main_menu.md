@@ -4,7 +4,7 @@ As soon as you log in to **EveryPill Reminder**, you can find its main menu at t
 
 ![Main menu at the top left corner](/images/main_menu.png)
 
-Tap the main menu to see its options.
+Tap the main menu to access its options.
 
 ![](/images/drawer_menu.png)
 
@@ -12,42 +12,42 @@ Tap the main menu to see its options.
 
 The *Account Info* option displays:
 
-- The name of the user logged in
-- The account that the user is logged (Google, Facebook, or Guest)
+- The name of the user logged on the App
+- The account that the user used to login (Google, Facebook, or Guest)
 - Information about your **EveryPill Reminder** account (Free or Premium)
-- A background image, which is the same image that you use on your Google or Facebook profile.
+- User's Google or Facebook image profile as a background
 
 ## Please rate this App
 
-By tapping this option you will be redirected to the **EveryPill Reminder** page on Google Play, where you can rate this App. 
+By tapping this option you'll be redirected to the **EveryPill Reminder** page on Google Play, where you can rate this App
 
 We thank you for that! :)
 
 
 ## Our Apps
 
-This option redirects to the lists of our Apps on Google Play.
+This option redirects to the lists of our Apps on Google Play
 
 
 ## User guide
 
-This option will bring you to this User guide.
+This option will bring you to this User guide
 
 
 ## Privacy policy
 
-Displays the **EveryPill Reminder** privacy policy.
+Displays the **EveryPill Reminder** privacy policy
 
 
 ## Sign out
 
-When you type this option, a message is displayed: *"Do you want to sign out?"*
+When you type this option, a message is displayed: *'Do you want to sign out?'*
 
-Tap [CANCEL] to continue using the App, or tap [OK] to sign out from it.
+Tap *Cancel* to continue using the App, or *OK* to sign out from it
 
 
 ## Buy Premium
 
 The *Premium* version allows you to share information (medication's name, frequency, alarm, etc) with others.
 
-> The Premium version is associated to the logged user. If you have more than one Google account, and you want the Premium version for all of them, you need to log in with *each one of them*, and buy the Premium version for each one of them.
+> The Premium version is associated to the logged user. If you have more than one Google account, and you want the Premium version for all of them, you need to log in with *each account*, and buy the Premium version for each one of them.

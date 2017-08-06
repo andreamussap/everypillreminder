@@ -28,7 +28,7 @@ This is for your own information, so you can type a name that is relevant to you
 
 The *type* options are: cc, drops, g, mg, mL, pills, spray, tabs, tablespoon, teaspoon, units, other.
 
-**6.** Select the *frequency* for this med to be taken. `Required`
+**6.** Select the *frequency* to take it. `Required`
 
 There are four options:
 
@@ -37,7 +37,7 @@ There are four options:
 - Days interval
 - Weeks interval
 
-After that, select the correspondent *interval* and *time* to start taking this med.
+After that, select the correspondent *interval* and *time* to start to take it.
 
 **7.** Add the *patient* name. `Required`
 
@@ -54,7 +54,7 @@ Here is where you relate the medicine to the patient. This is for your own infor
 - The medicine is added to the **Calendar** list.
 
 
-> All medicines with the alarm set will be listed on the Calendar tab. If the *initial date* is different from the current day, you must scroll down the list until the *initial date* to be able to see the med on the list.
+> All medicines with the alarm set will be listed on the Calendar tab. If the *initial date* is different from the current day, you must scroll down the list until the *initial date* to see the meds on the list.
   
 If you don't fill in all the required fields, and tap **Save**, the missing fields are surrounded by a red square.
 
@@ -69,7 +69,7 @@ The list displays the med's icon, name, and the alarm, that can be ON or OFF.
 
 ## Edit a medicine
 
-To edit the information of a med, just tap it from the list of medicines.
+Tap a medicine to edit its information.
 
 On the edition screen, update the required fields and tap the drop-down menu.
 
@@ -80,7 +80,7 @@ From the drop-down menu, select *Save medicine*
 **Result**
 
 - The updated med is on the list of medicines
-- Different from when you add a new med, the alarm isn't set by default. It *remains* like it was before the edition, ON or OFF. 
+- Different from when you add a new med, the alarm isn't set by default. It remains like it was before the edition, ON or OFF. 
 - Message *'Medicine saved'* is displayed
 
 
@@ -94,7 +94,7 @@ From the drop-down menu, select *Save medicine*
 
 **4.** Message *'Do you want to remove <medicine_name>?'* is displayed
 
-**5.** Tap [OK] to confirm.
+**5.** Tap *OK* to confirm.
 
 **Result**
 
@@ -110,7 +110,7 @@ From the drop-down menu, select *Save medicine*
 
 ![](images/share_medicine2.png)
 
-**1.** From the list of medicine, tap the relevant medicine
+**1.** Tap a medicine to share its information.
 
 **2.** On the edition screen, tap the drop-down menu
 
@@ -126,19 +126,19 @@ From the drop-down menu, select *Save medicine*
 
 - The name of the friend is displayed
 
-**6.** Tap [SHARE]
+**6.** Tap *Share*
 
 **Result**
 
 - You are redirected to the list of meds.
 - Message *'Medicine shared'* is displayed.
 
-> You can only share one medicine at a time with the **same friend**. If you try to share a second medicine with someone, and he/she didn't respond (Accept or Reject) your previous request yet, you'll see this message: *'Your friend must first respond to the previous request'*
+> You can only share one medicine at a time with the **same friend**. If you try to share a second medicine with someone, and he/she didn't respond (Accept or Reject) your previous request yet, the message: *'Your friend must first respond to the previous request'* is displayed
 
 
 ## Respond to a request
 
-When someone shares a medicine with you, you will see the suggested med at the end of your list of medicines. The shared med has a red square around it, and the buttons (Accept) and (Reject).
+When someone shares a medicine with you, you will see the suggested med on the list. The shared med is surrounded by a red line, and it contains the buttons *Accept* and *Reject*.
 
 The alarm for a shared med won't sound until you accept the request.
 
@@ -147,25 +147,25 @@ The alarm for a shared med won't sound until you accept the request.
 
 To **accept** a request, tap *Accept*
 
-Message *'Do you want to add <med_name> sent by <friend_name>?'* is displayed.
+Message *'Do you want to add (medicine's name) sent by (friend's name)?'* is displayed.
 
 Tap [OK] to accept it.
 
 **Result**
 
-- The medicine remains on the list, and its alarm is set.
-- Buttons (Accept) and (Reject) are removed.
-- Message *'Medicine added'* is displayed.
+- The medicine remains on the list, and its alarm is set
+- Buttons *Accept* and *Reject* are removed
+- Message *'Medicine added'* is displayed
 
 To **reject** a request, tap *Reject*
 
-Message *'Do you want to remove <med_name> sent by <friend_name>?'* is displayed.
+Message *'Do you want to remove (medicine's name) sent by (friend's name)?'* is displayed
 
-Tap [OK] to reject it.
+Tap [OK] to reject it
 
 **Result**
 
-- The medicine is removed from the list.
-- Message *'Medicine deleted* is displayed.
+- The medicine is removed from the list
+- Message *'Medicine deleted* is displayed
 
 > Remember that while you don't respond to your friend's request, either accepting or rejecting it, he/she won't be able to share another medicine with you.
