@@ -27,4 +27,8 @@ If you have a Facebook account but Facebook App is not installed on the smartpho
 
 In this case, input your Facebook information and proceed with the login.
 
-If it's not the first time that you log in to **EveryPill Reminder** with Facebook using the login screen, you'll see a message: "You previously logged in to EveryPill Reminder with Facebook. Would you like to continue?". In this case, tap *Continue* to access **EveryPill Reminder**.
+If it's not the first time that you log in to **EveryPill Reminder** with Facebook using the login screen, you'll see a message: 
+
+*"You previously logged in to EveryPill Reminder with Facebook. Would you like to continue?"*
+
+In this case, tap *Continue* to access **EveryPill Reminder**.

@@ -12,7 +12,7 @@ For each medication with the alarm set, it displays:
 - The name of the medicine and the name of the patient - both names given by you when you added the med
 - Two navigation buttons, one at the top of the list and another at its bottom
 
-![] (image/calendar.jpg)
+![](image/calendar.jpg)
 
 > If you scroll down the navigation button, the day of the week changes from **Today** to the next days, formated as MM/DD/YYYY.
 
@@ -20,12 +20,12 @@ For each medication with the alarm set, it displays:
 
 ## Alarm
 
-When it's time for a medication that has its **alarm set**, the app sends a push notification, vibrates and sounds 3 times.
+When it's time to take a medication that has its **alarm set**, the app sends a push notification, vibrates and sounds 3 times.
 
-![] (image/push-alarm.jpg)
+![](image/push-alarm.jpg)
 
 If your phone is on **vibrate mode**, the alarm will vibrate one time, but it won't sound. Also, it's possible to see the medicine's notification at the notification area of your phone.
 
 If your turn off your phone, the alarm won't vibrate or sound. But, when you turn your phone on, it will vibrate and you will see the late medicine's notification at the notification area of your phone, so you can see what you've missed.
 
-The alarm of **shared** medications doesn't sound until they're accepted.
+The alarm of a **shared** medications doesn't sound until they're accepted.

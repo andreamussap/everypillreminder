@@ -41,7 +41,9 @@ Displays the **EveryPill Reminder** privacy policy.
 
 ## Sign out
 
-When you type this option, a message is displayed: *"Do you want to sign out?"*. Tap [CANCEL] to continue using the App, or tap [OK] to sign out.
+When you type this option, a message is displayed: *"Do you want to sign out?"*
+
+Tap [CANCEL] to continue using the App, or tap [OK] to sign out from it.
 
 
 ## Buy Premium

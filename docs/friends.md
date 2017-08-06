@@ -27,10 +27,11 @@ Now, let's see how to add, remove and manage friends on **EveryPill Reminder**
 ## Add a new friend
 
 There are two ways for adding friends to **EveryPill Reminder**:
+
 - You can send a request to your friend, or 
 - You can accept a friend's invitation.
 
-## Send a request to a friend
+### Send a request to a friend
 
 > You'll need the email that you friend uses to access **EveryPill Reminder**.
 
@@ -50,7 +51,7 @@ Tap [OK]
 > If the email is incorrect, either because of a typo or if it's not the email that your friend uses to access **EveryPill Reminder**, the message *'No friends found'* is displayed.
 
 
-## View your request details
+### View your request details
 
 While you friend doesn't respond your request, if you tap him/her from the list you'll see the buttons **Waiting** (a question mark) and **Delete**
 
@@ -69,7 +70,7 @@ Tap **Chat** if you want to send your friend a message.
 Tap **Delete** if you want to remove this friend.
 
 
-## Add friends by accepting their invitation
+### Add friends by accepting their invitation
 
 If others send you a request, you'll see them on your list of friends.
 Tap the relevant friend, and you'll see the buttons **Accept** and **Delete**
@@ -87,6 +88,7 @@ In this case, you have two options:
 - Delete your friend and send he/she a new invitation.
 - Wait for your friend to re-send the invitation (If he/she deleted it by mistake, he/she can send the request again).
 
+-----
 ## Delete friend
 
 - Delete an invitation that you sent - if your friend didn't accept it yet
