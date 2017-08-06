@@ -2,12 +2,12 @@
 
 The Calendar tab displays the list of medications that you added, and that have its alarm set.
 
-> Note: Only medicines with the alarm set will be listed on the Calendar tab.
+> Note: Only medicines with the alarm set are listed on the *Calendar* tab.
 
 For each medication with the alarm set, it displays:
 
 - The label **Today** by default, and the label of today's week day. For example: **Monday**
-- A list of the meds (that have their alarm set) orded by the hour that they need to be taken (format HH:MM am/pm)
+- A list of the meds orded by the hour that they need to be taken (format HH:MM am/pm)
 - The icon of the medicine
 - The name of the medicine and the name of the patient - both names given by you when you added the med
 - Two navigation buttons, one at the top of the list and another at its bottom

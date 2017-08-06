@@ -7,35 +7,38 @@
 This option allows you to add the medicines that you need to manage for yourself and others. To relate the individual (yourself or others) to the medicine, you just need to type his/her name when adding the new med. 
 
 You can do it with a few simple steps. Let's see how it works?
+
 -----
 
 **1.** From the Medicine's tab, tap **Add**
 
 ![](/images/button_add_med.png)
 
-On the next screen, you can select a background colour. There are five different colours to help you to better organize your list. Try them out!!
+**2.** On the next screen, you can select a background colour. There are five different colours to help you to better organize your list. Try them out!!
 
-**2.** Select the ++type++ of medicine from the list. `Required`
+**3.** Select the ++ type ++ of medicine from the list. `Required`
 
 You can choose one of these options:
+
 Capsule|Cream|Drops|Gel/ Lotion|Inhaler
 Injection|Powder|Mounthwash|Spray|Syrup
 Tablet|Suppository|Other| .| .
 
 > After selecting the med type, note that its image is changed.
 
-**3.** *Add a ++name++ to the medicine. `Required`
+**4.** Add a ++name++ to the medicine. `Required`
 
 This is for your own information, so you can type a name that is relevant to you.
 
-**4.** Add ++dosage++ and ++type++. `Optional`
+**5.** Add ++dosage++ and ++type++. `Optional`
 
 The ++type++ options are:
+
 cc|drops|g|mg
 mL|pills|spray|tabs
 tablespoon|teaspoon|units|other
 
-**5.** Select the ++frequency++ for this med to be taken. `Required`
+**6.** Select the ++frequency++ for this med to be taken. `Required`
 
 There are four options:
 - Every day
@@ -45,13 +48,13 @@ There are four options:
 
 After that, select the correspondent ++interval++ and ++time++ to start taking this med.
 
-**6.** Add the ++patient++ name. `Required`
+**7.** Add the ++patient++ name. `Required`
 
 Here is where you relate the medicine to the patient. This is for your own information, so you can type a name that is relevant to you.
 
-**7.** Add a ++note++. `Optional`
+**8.** Add a ++note++. `Optional`
 
-**8.** After fill in all required fields, tap **Save** to add the new medicine.
+**9.** After fill in all required fields, tap **Save** to add the new medicine.
 
 ![Save medicine](/images/button-save-med.png)
 
@@ -64,7 +67,7 @@ Here is where you relate the medicine to the patient. This is for your own infor
 
 > All medicines with the alarm set will be listed on the Calendar tab. If the ++initial date++ is different from the current day, you must scroll down the list until the ++initial date++ to be able to see the med on the list.
   
-**If you don't fill in all the required fields, and tap **Save**, the missing fields are surrounded by a red square.**
+If you don't fill in all the required fields, and tap **Save**, the missing fields are surrounded by a red square.
 
 ## List of medicines
 
@@ -72,7 +75,7 @@ The medicine's tab lists all added medication.
 
 The list displays the med's icon, name, and the alarm, that can be ON or OFF.
 
-> When you add a new med, the alarm is set by default. To turn it off, just tap the alarm icon.
+**When you add a new med, the alarm is set by default. To turn it off, just tap the alarm icon.**
 
 
 ## Edit a medicine
@@ -94,15 +97,15 @@ From the drop-down menu, select *Save medicine*
 
 ## Delete a medicine
 
-To delete a med, tap it from the list of medicines
+**1.** To delete a med, tap it from the list of medicines
 
-On the edition screen, tap the drop-down menu
+**2.** On the edition screen, tap the drop-down menu
 
-From the drop-down menu, select *Remove medicine*
+**3.** From the drop-down menu, select *Remove medicine*
 
-Message *'Do you want to remove <medicine_name>?'* is displayed
+**4.** Message *'Do you want to remove <medicine_name>?'* is displayed
 
-Tap [OK] to confirm
+**5.** Tap [OK] to confirm.
 
 **Result**
 
@@ -118,15 +121,23 @@ Tap [OK] to confirm
 
 ![](images/share_medicine2.png)
 
-**1.** From the list of medicine, tap the relevant medicine.
-**2.** On the edition screen, tap the drop-down menu.
-**3.** From the drop-down menu, select *Share medicine*.
-- A popup is displayed.
-**4.** On the popup, tap *'Tap to select a friend'*.
-- The list of friends is displayed.
-**5.** Select one friend from the list.
-- The name of the friend is displayed.
-**6.** Tap [SHARE].
+**1.** From the list of medicine, tap the relevant medicine
+
+**2.** On the edition screen, tap the drop-down menu
+
+**3.** From the drop-down menu, select *Share medicine*
+
+- A popup is displayed
+
+**4.** On the popup, tap *'Tap to select a friend'*
+
+- The list of friends is displayed
+
+**5.** Select one friend from the list
+
+- The name of the friend is displayed
+
+**6.** Tap [SHARE]
 
 **Result**
 
@@ -145,8 +156,10 @@ The alarm for a shared med won't sound until you accept the request.
 ![](/images/medicine.png)
 
 
-To **accept** a request, tap (Accept).
+To **accept** a request, tap *Accept*
+
 Message *'Do you want to add <med_name> sent by <friend_name>?'* is displayed.
+
 Tap [OK] to accept it.
 
 **Result**
@@ -155,8 +168,10 @@ Tap [OK] to accept it.
 - Buttons (Accept) and (Reject) are removed.
 - Message *'Medicine added'* is displayed.
 
-To **reject** a request, tap (Reject).
+To **reject** a request, tap *Reject*
+
 Message *'Do you want to remove <med_name> sent by <friend_name>?'* is displayed.
+
 Tap [OK] to reject it.
 
 **Result**

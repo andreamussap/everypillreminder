@@ -18,7 +18,7 @@ Don't take a chance on missing the correct time and dosage of your medication. Y
 
 With a few simple steps you can input individuals, and get hourly, daily, or weekly reminders.
 
-==No longer will you need to worry about forgetting time and dosage.==
+> **No longer will you need to worry about forgetting time and dosage.**
 
 With **EveryPill Reminder**, pharmaceutical information can be shared(*) between users. This is a very useful feature in many situations.
 
@@ -28,13 +28,13 @@ With **EveryPill Reminder**, pharmaceutical information can be shared(*) between
 
 Sign in with your **Google** or **Facebook** account to use the **EveryPill Reminder Chat**. 
 
-\ Your data is always saved when you are logged in with an account, and it can be accessed on any device: no need to register again.==
+> **Your data is always saved when you are logged in with an account, and it can be accessed on any device: no need to register again.**
 
 You can also sign in as a Guest, but if you change devices your data will be lost.
 
 For more indepth information about the App, have a look at the **EveryPill Reminder User Guide**, available within the application.
 
-(*) Upgrade to **Premium** version to access this feature.
+(*)Upgrade to **Premium** version to access this feature.
 
 
 ## Premium
