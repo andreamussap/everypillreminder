@@ -9,4 +9,5 @@ pages:
    - Friends: 'friends.md'
    - Chat: 'chat.md'
 theme: readthedocs
+site_favicon: images/favicon.ico
 google_analytics: ['UA-45971598-3', 'auto']
