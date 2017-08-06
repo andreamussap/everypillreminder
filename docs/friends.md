@@ -33,13 +33,13 @@ You are redirected to the *'Add new friend'* screen, with a text box to enter an
 
 Enter your friend's email and tap *search*
 
-If you typed the correct email, you'll see your friend's photo, name and account icon (Facebook or Gmail), and the **Add** button.
+If you typed the correct email, you'll see your friend's photo, name and account icon (Facebook or Gmail), and the **Add** (+) button.
 
 ![] (images/Add_friend2.png)
 
 Tap **Add**
 
-Message: *'Do you want to add <friend's name>?'* is displayed
+Message: *'Do you want to add (friend's name)?'* is displayed
 
 Tap *OK*
 

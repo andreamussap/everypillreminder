@@ -4,7 +4,7 @@ The **Chat** option is an easy way for you to communicate with others while usin
 
 You can only talk to those who are already added as your friends.
 
-- To talk to a friend for the first time, tap he/she from list of friends, then tap the **Chat** (envelop)icon.
+- To talk to a friend for the first time, tap he/she from list of friends, then tap the **Chat** (envelop) icon.
 
 ![] (images/send_message_friend_screen.png)
 
