@@ -2,7 +2,7 @@ site_name: AFMussap Tech EveryPill Reminder
 pages:
 - About: 'index.md'
 - Sign in: 'signin.md'
-- Main menu: 'main_menu'
+- Main menu: 'main_menu.md'
 - Features:
    - Medicines: 'medicines.md'
    - Calendar: 'calendar.md'
