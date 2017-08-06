@@ -10,37 +10,28 @@ You can do it with a few simple steps. Let's see how it works?
 
 -----
 
-**1.** From the Medicine's tab, tap **Add**
-
-![](/images/button_add_med.png)
+**1.** From the Medicine's tab, tap **Add** ![](/images/button_add_med.png)
 
 **2.** On the next screen, you can select a background colour. There are five different colours to help you to better organize your list. Try them out!!
 
-**3.** Select the ++ type ++ of medicine from the list. `Required`
+**3.** Select the *type* of medicine from the list. `Required`
 
-You can choose one of these options:
-
-Capsule|Cream|Drops|Gel/ Lotion|Inhaler
-Injection|Powder|Mounthwash|Spray|Syrup
-Tablet|Suppository|Other| .| .
+You can choose one of these options: Capsule, Cream, Drops, Gel/ Lotion, Inhaler, Injection, Powder, Mounthwash, Spray, Syrup, Tablet, Suppository, Other.
 
 > After selecting the med type, note that its image is changed.
 
-**4.** Add a ++name++ to the medicine. `Required`
+**4.** Add a *name* to the medicine. `Required`
 
 This is for your own information, so you can type a name that is relevant to you.
 
-**5.** Add ++dosage++ and ++type++. `Optional`
+**5.** Add *dosage* and ++type++. `Optional`
 
-The ++type++ options are:
+The *type* options are: cc, drops, g, mg, mL, pills, spray, tabs, tablespoon, teaspoon, units, other.
 
-cc|drops|g|mg
-mL|pills|spray|tabs
-tablespoon|teaspoon|units|other
-
-**6.** Select the ++frequency++ for this med to be taken. `Required`
+**6.** Select the *frequency* for this med to be taken. `Required`
 
 There are four options:
+
 - Every day
 - Week days
 - Days interval
@@ -48,15 +39,13 @@ There are four options:
 
 After that, select the correspondent ++interval++ and ++time++ to start taking this med.
 
-**7.** Add the ++patient++ name. `Required`
+**7.** Add the *patient* name. `Required`
 
 Here is where you relate the medicine to the patient. This is for your own information, so you can type a name that is relevant to you.
 
-**8.** Add a ++note++. `Optional`
+**8.** Add a *note*. `Optional`
 
-**9.** After fill in all required fields, tap **Save** to add the new medicine.
-
-![Save medicine](/images/button-save-med.png)
+**9.** After fill in all required fields, tap **Save** to add the new medicine. ![Save medicine](/images/button-save-med.png)
 
 **Result**
 
