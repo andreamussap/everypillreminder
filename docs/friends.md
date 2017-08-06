@@ -7,10 +7,10 @@ Thinking about those who share the management of medications with others, **AFMu
 Let's have a look at two examples of how this works.
 
 `Example 1`
-You take care of your child’s medicine. You’ll be away for few days and you ask your partner to take care of this. In this case, instead of your partner adding the medication to his/her App (add name, type, alarm, etc.), you can share the relevant medication with him/her, and when he/she accepts your request, the medication will be automatically added to his/her App, whith the alarm set.
+You take care of your child’s medicine. You’ll be away for few days and you ask your partner to take care of this. In this case, instead of your partner adding the medication to his/her App (add name, type, alarm, etc.), you can share the relevant medication with him/her, and when he/she accepts your request, the medication will be automatically added to his/her App, with the alarm set.
 
 `Example 2`
-You’re taking a Vitamin. You friend tells you that he needs to take the same Vitamin as you. There’s no need for him to add all the required data to his App. If you share your Vitamin data with him, once he accepts it, the Vitamin will automatically be added to his App, whith the alarm set.
+You’re taking a Vitamin. You friend tells you that he needs to take the same Vitamin as you. There’s no need for him to add all the required data to his App. If you share your Vitamin data with him, once he accepts it, the Vitamin will automatically be added to his App, with the alarm set.
 
 Now, let's see how to add, remove and manage friends on **EveryPill Reminder**
 
@@ -31,7 +31,7 @@ Access the tab **Friends** and tap **Add**.
 
 You are redirected to the *'Add new friend'* screen, with a text box to enter an email, and a button to search.
 
-Enter you friend's email and tap (search).
+Enter your friend's email and tap *search*.
 
 If you typed the correct email, you'll see your friend's photo, name and account icon (Facebook or Gmail), and the **Add** button.
 
@@ -58,7 +58,7 @@ While you friend doesn't respond your request, if you tap him/her from the list 
 
 By tapping **Waiting**, the message *'Waiting for <friend name> response'* is displayed.
 
-By tapping **Delete**, the message *'Cancel invitation to <friend_name>?'* is displayed. Tap [OK] to delete the request your've sent. In this case, your friend is removed from the list, and the message *'Friend deleted'* is displayed.
+By tapping **Delete**, the message *'Cancel invitation to <friend_name>?'* is displayed. Tap [OK] to delete the request you've sent. In this case, your friend is removed from the list, and the message *'Friend deleted'* is displayed.
 
 Once your friend accepts your request, if you tap he/she from the list you'll see the buttons **Chat** and **Delete**
 
@@ -89,7 +89,7 @@ However, the **Waiting** button will display *'<friend's name> is not available 
 
 In this case, you have two options:
 
-- Delete your friend and send he/she a new invitation.
+- Delete your friend and send him/her a new invitation.
 - Wait for your friend to re-send the invitation (If he/she deleted it by mistake, he/she can send the request again).
 
 -----

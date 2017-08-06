@@ -7,14 +7,14 @@ The Calendar tab displays the list of medications that you added, and that have 
 For each medication with the alarm set, it displays:
 
 - The label **Today** by default, and the label of today's week day. For example: **Monday**
-- A list of the meds orded by the hour that they need to be taken (format HH:MM am/pm)
+- A list of the meds ordered by the hour that they need to be taken (format HH:MM am/pm)
 - The icon of the medicine
 - The name of the medicine and the name of the patient - both names given by you when you added the med
 - Two navigation buttons, one at the top of the list and another at its bottom
 
 ![](images/calendar.png)
 
-> If you scroll down the navigation button, the day of the week changes from **Today** to the next days, formated as MM/DD/YYYY.
+> If you scroll down the navigation button, the day of the week changes from **Today** to the next days, formatted as MM/DD/YYYY.
 
 
 ## Alarm

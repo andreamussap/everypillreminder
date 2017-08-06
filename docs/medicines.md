@@ -16,7 +16,7 @@ You can do it with a few simple steps. Let's see how it works?
 
 **3.** Select the *type* of medicine from the list. `Required`
 
-You can choose one of these options: Capsule, Cream, Drops, Gel/ Lotion, Inhaler, Injection, Powder, Mounthwash, Spray, Syrup, Tablet, Suppository, Other.
+You can choose one of these options: Capsule, Cream, Drops, Gel/ Lotion, Inhaler, Injection, Powder, Mouthwash, Spray, Syrup, Tablet, Suppository, Other.
 
 > After selecting the med type, note that its image is changed.
 
@@ -24,7 +24,7 @@ You can choose one of these options: Capsule, Cream, Drops, Gel/ Lotion, Inhaler
 
 This is for your own information, so you can type a name that is relevant to you.
 
-**5.** Add *dosage* and ++type++. `Optional`
+**5.** Add *dosage* and *type*. `Optional`
 
 The *type* options are: cc, drops, g, mg, mL, pills, spray, tabs, tablespoon, teaspoon, units, other.
 
@@ -37,7 +37,7 @@ There are four options:
 - Days interval
 - Weeks interval
 
-After that, select the correspondent ++interval++ and ++time++ to start taking this med.
+After that, select the correspondent *interval* and *time* to start taking this med.
 
 **7.** Add the *patient* name. `Required`
 
@@ -54,7 +54,7 @@ Here is where you relate the medicine to the patient. This is for your own infor
 - The medicine is added to the **Calendar** list.
 
 
-> All medicines with the alarm set will be listed on the Calendar tab. If the ++initial date++ is different from the current day, you must scroll down the list until the ++initial date++ to be able to see the med on the list.
+> All medicines with the alarm set will be listed on the Calendar tab. If the *initial date* is different from the current day, you must scroll down the list until the *initial date* to be able to see the med on the list.
   
 If you don't fill in all the required fields, and tap **Save**, the missing fields are surrounded by a red square.
 
@@ -136,7 +136,7 @@ From the drop-down menu, select *Save medicine*
 > You can only share one medicine at a time with the **same friend**. If you try to share a second medicine with someone, and he/she didn't respond (Accept or Reject) your previous request yet, you'll see this message: *'Your friend must first respond to the previous request'*
 
 
-## Responde to a request
+## Respond to a request
 
 When someone shares a medicine with you, you will see the suggested med at the end of your list of medicines. The shared med has a red square around it, and the buttons (Accept) and (Reject).
 

@@ -15,7 +15,7 @@ The *Account Info* option displays:
 - The name of the user logged in
 - The account that the user is logged (Google, Facebook, or Guest)
 - Information about your **EveryPill Reminder** account (Free or Premium)
-- A backgroud image, which is the same image that you use on your Google or Facebook profile.
+- A background image, which is the same image that you use on your Google or Facebook profile.
 
 ## Please rate this App
 
@@ -48,6 +48,6 @@ Tap [CANCEL] to continue using the App, or tap [OK] to sign out from it.
 
 ## Buy Premium
 
-The *Premium* version allows you to share information (medicaton's name, frequency, alarm, etc) with others.
+The *Premium* version allows you to share information (medication's name, frequency, alarm, etc) with others.
 
 > The Premium version is associated to the logged user. If you have more than one Google account, and you want the Premium version for all of them, you need to log in with *each one of them*, and buy the Premium version for each one of them.
