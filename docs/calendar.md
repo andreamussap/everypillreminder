@@ -12,17 +12,16 @@ For each medication with the alarm set, it displays:
 - The name of the medicine and the name of the patient - both names given by you when you added the med
 - Two navigation buttons, one at the top of the list and another at its bottom
 
-![](image/calendar.jpg)
+![](images/calendar.png)
 
 > If you scroll down the navigation button, the day of the week changes from **Today** to the next days, formated as MM/DD/YYYY.
-
 
 
 ## Alarm
 
 When it's time to take a medication that has its **alarm set**, the app sends a push notification, vibrates and sounds 3 times.
 
-![](image/push-alarm.jpg)
+![](images/push-alarm.png)
 
 If your phone is on **vibrate mode**, the alarm will vibrate one time, but it won't sound. Also, it's possible to see the medicine's notification at the notification area of your phone.
 

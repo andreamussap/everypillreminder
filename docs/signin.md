@@ -6,7 +6,7 @@ It's possible to log in as a Guest, but in this case, if you change device or if
 
 # Important notes
 
-## Facebook and Google are different accounts
+### Facebook and Google are different accounts
 
 Facebook and Google are different accounts, and the App treats them as such, even if your Facebook is associated to your Google email.
 
@@ -19,7 +19,7 @@ So, for example, you sign in with Google and add a medication. Then you sign out
 In this case, you *won't be able to access* the medication and friends that you previously added with Google, *even if your Facebook email is your Google email*!
  
 
-## Facebook App is not installed on the smartphone
+### Facebook App is not installed on the smartphone
 
 If you have a Facebook account but Facebook App is not installed on the smartphone, when you try to sign in to **EveryPill Reminder** with Facebook you will see the default Facebook screen to login to the application. 
 
@@ -27,8 +27,4 @@ If you have a Facebook account but Facebook App is not installed on the smartpho
 
 In this case, input your Facebook information and proceed with the login.
 
-If it's not the first time that you log in to **EveryPill Reminder** with Facebook using the login screen, you'll see a message: 
-
-*"You previously logged in to EveryPill Reminder with Facebook. Would you like to continue?"*
-
-In this case, tap *Continue* to access **EveryPill Reminder**.
+If it's not the first time that you log in to **EveryPill Reminder** with Facebook using the login screen, you'll see the message: *'You previously logged in to EveryPill Reminder with Facebook. Would you like to continue?'*. In this case, tap *Continue* to access **EveryPill Reminder**.

@@ -9,7 +9,7 @@ pages:
    - Friends: 'friends.md'
    - Chat: 'chat.md'
 theme: readthedocs
-site_favicon: images/favicon.ico
+site_favicon: images/ic_launcher.png
 google_analytics: ['UA-45971598-3', 'auto']
 markdown_extensions:
 - pymdownx.mark
