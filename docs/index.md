@@ -28,7 +28,7 @@ With **EveryPill Reminder**, pharmaceutical information can be shared(*) between
 
 Sign in with your **Google** or **Facebook** account to use the **EveryPill Reminder Chat**. 
 
-> Your data is always saved when you are logged in with an account, and it can be accessed on any device: no need to register again. 
+==Your data is always saved when you are logged in with an account, and it can be accessed on any device: no need to register again.==
 
 You can also sign in as a Guest, but if you change devices your data will be lost.
 
@@ -46,6 +46,6 @@ Upgrade to **Premium** version to share the information that you’ve already ad
 
 Available for Android™.
 
-[![](/images/google-play-badge-200x59.png)](https://play.google.com/store/apps/details?id=mussapappsshoppinglist.fmussap.com.shoppinglist)
+[![](/images/google-play-badge-200x59.png)](https://play.google.com/store/apps/details?id=com.everypill_reminder)
 
 Contact **AFMussap Tech Developer** here: afmussaptech@gmail.com
