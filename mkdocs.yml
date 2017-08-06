@@ -11,3 +11,8 @@ pages:
 theme: readthedocs
 site_favicon: images/favicon.ico
 google_analytics: ['UA-45971598-3', 'auto']
+markdown_extensions:
+- pymdownx.admonition
+- pymdownx.mark
+- pymdownx.magiclink
+- pymdownx.critic
