@@ -1,11 +1,11 @@
 # EveryPill Reminder App
 
 - Have you ever missed the time to take your medication?
-- Do you struggle to keep track of the correct dosage and time of meds for you or your beloved ones, and you find it an almost impossible task??
+- Do you struggle to keep track of the correct dosage and time of meds for you or your beloved ones, and you find it an almost impossible task?
 
-If you feel like that, you're not alone. Due to our modern and active lifestyle, more than ever we need to take pills, vitamins, and tonics among others, to improve our health. It's almost an impossible task to manually control all of this, let alone if you need to control it for you and others!
+If you feel like that, you're not alone. Due to our modern and active lifestyle, more than ever we need to take pills, vitamins, and tonics among others, to improve our health. It's almost an impossible task to manually control all of this, let alone if you need to control it for you and your beloved ones!
 
-Thinking about that, AFMussap Tech has developed the **EveryPill Reminder**: a powerful tool that helps you to keep track of your meds.
+Thinking about that, AFMussap Tech has developed **EveryPill Reminder**: a powerful tool that helps you to keep track of your meds.
 
 ![](/images/login.png)
 
@@ -18,9 +18,9 @@ Don't take a chance on missing the correct time and dosage of your medication. Y
 
 With a few simple steps you can input individuals, and get hourly, daily, or weekly reminders.
 
-> No longer will you need to worry about forgetting time and dosage!
+>No longer will you need to worry about forgetting time and dosage!
 
-With EveryPill Reminder pharmaceutical information can be shared(*) between users. This is a very useful feature in many situations.
+With **EveryPill Reminder**, pharmaceutical information can be shared(*) between users. This is a very useful feature in many situations.
 
 **Think about this scenario:** you manage your child’s medicine. You’ll be away for few days and you ask your partner to take care of the child’s medicine. In this case, instead of your partner adding the medication to his/her App (add name, type, alarm, etc.), you can share the relevant information with him/her, and when they choose to accept it, it will be automatically added to his/her App.
 
@@ -28,7 +28,7 @@ With EveryPill Reminder pharmaceutical information can be shared(*) between user
 
 Sign in with your **Google** or **Facebook** account to use the **EveryPill Reminder Chat**. 
 
-> Your data is always saved when you are logged in with an account, and it can be accessed on any device: no need to register again! 
+>Your data is always saved when you are logged in with an account, and it can be accessed on any device: no need to register again! 
 
 You can also sign in as a Guest, but if you change devices your data will be lost.
 

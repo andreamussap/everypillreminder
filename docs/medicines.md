@@ -12,13 +12,11 @@ From the Medicine's tab, tap **Add**
 
 ![](/images/button_add_med.png)
 
-`On the next screen, you can select a background colour.`
-------
-There are five different colours to help you to better organize your list. Try them out!!
+On the next screen, you can select a background colour. There are five different colours to help you to better organize your list. Try them out!!
 
-`Select the **Type** of medicine from the list.`
-------
-*Required information*
+**Select the **Type** of medicine from the list.**
+
+*Required*
 
 You can choose one of these options:
 
@@ -28,15 +26,15 @@ You can choose one of these options:
 
 > After selecting the med type, note that its image is changed.
 
-`Add a **name** to the medicine.`
-------
-*Required information*
+**Add a **name** to the medicine.**
+
+*Required*
 
 This is for your own information, so you can type a name that is relevant to you.
 
-`Add the **dosage** (this is a numeric information) and **type**.`
-------
-*Optional information*
+**Add the **dosage** (this is a numeric information) and **type**.**
+
+*Optional*
 
 The **type** options are:
 
@@ -44,9 +42,9 @@ The **type** options are:
 |mL|pills|spray|tabs|
 |tablespoon|teaspoon|units|other|
 
-`Select the **frequency** for this med to be taken.`
-------
-*Required information*
+**Select the frequency for this med to be taken.**
+
+*Required*
 
 There are four options:
 - Every day
@@ -56,15 +54,15 @@ There are four options:
 
 After that, select the correspondent **interval** and **time** to start taking this med.
 
-`Add the **patient** name.`
-------
-*Required information.*
+**Add the **patient** name.**
+
+*Required.*
 
 Here is where you relate the medicine to the patient. This is for your own information, so you can type a name that is relevant to you.
 
-`Add a **note**.`
-------
-*Optional information*
+**Add a **note**.**
+
+*Optional*
 
 After fill in all required fields, tap **Save** to add the new medicine.
 
@@ -78,7 +76,7 @@ After fill in all required fields, tap **Save** to add the new medicine.
 
 > All medicines with the alarm set will be listed on the Calendar tab. If the *initial date* is different from the current day, you must scroll down the list until the *initial date* to be able to see the med on the list.
   
-|If you don't fill in all the required fields, and tap **Save**, the missing fields are surrounded by a red square.|
+`If you don't fill in all the required fields, and tap **Save**, the missing fields are surrounded by a red square.`
 
 ## List of medicines
 
