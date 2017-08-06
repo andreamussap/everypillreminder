@@ -1,0 +1,12 @@
+site_name: AFMussap Tech EveryPill Reminder
+pages:
+- About: 'index.md'
+- Sign in: 'signin.md'
+- Main menu: 'main_menu'
+- Features:
+   - Medicines: 'medicines.md'
+   - Calendar: 'calendar.md'
+   - Friends: 'friends.md'
+   - Chat: 'chat.md'
+theme: readthedocs
+google_analytics: ['UA-45971598-3', 'auto']
