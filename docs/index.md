@@ -18,7 +18,7 @@ Don't take a chance on missing the correct time and dosage of your medication. Y
 
 With a few simple steps you can input individuals, and get hourly, daily, or weekly reminders.
 
-!!! tip ""
+!!! tip
 	No longer will you need to worry about forgetting time and dosage.
 
 With **EveryPill Reminder**, pharmaceutical information can be shared(*) between users. This is a very useful feature in many situations.
