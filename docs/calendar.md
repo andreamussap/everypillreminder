@@ -2,7 +2,7 @@
 
 The Calendar tab displays the list of medications that have their alarm set.
 
-!!! important "Important"
+!!! warning "Important"
 	Only medicines with the alarm set are listed on the *Calendar* tab.
 
 For each medication with the alarm set, the list displays:
