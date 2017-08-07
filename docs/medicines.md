@@ -10,7 +10,9 @@ You can do it with a few simple steps. Let's see how it works?
 
 -----
 
-**1.** From the Medicine's tab, tap **Add** ![](/images/button_add_med.png)
+**1.** From the Medicine's tab, tap **Add** 
+
+![](/images/button_add_med.png)
 
 **2.** On the next screen, you can select a background colour. There are five different colours to help you to better organize your list. Try them out!!
 
