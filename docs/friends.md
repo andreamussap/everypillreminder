@@ -1,8 +1,8 @@
 # Friends
 
-Adding a friend is **required** when you want to share the pharmaceutical information with others
+Adding a friend is **required** when you want to share pharmaceutical information with others
 
-Thinking about those who share the management of medications, **AFMussap Tech** developed this feature to help you to better coordinate this task with others
+Thinking about those who share the management of medications, **AFMussap Tech** developed this feature to help you to better coordinate this task
 
 Let's have a look at two examples of how this works.
 
@@ -25,7 +25,7 @@ There are two ways for adding friends to **EveryPill Reminder**:
 
 ### Send a request to a friend
 
-> **Note - You'll need the email that you friend uses to access EveryPill Reminder**
+> **Note - You'll need the email that your friend uses to access EveryPill Reminder**
 
 Access the tab **Friends** and tap **Add**
 
