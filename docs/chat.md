@@ -2,7 +2,8 @@
 
 The **Chat** option is an easy way for you to talk to others while using **EveryPill Reminder**.
 
-You can only talk to those who are already added as your friends.
+!!! tip "Tip"
+	You can only talk to those who are already added as your friends.
 
 - To talk to a friend for the first time, tap he/she from list of friends, then tap the **Chat** (envelop) icon.
 
