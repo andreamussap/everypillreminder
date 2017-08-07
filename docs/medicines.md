@@ -18,7 +18,8 @@ You can do it with a few simple steps. Let's see how it works?
 
 You can choose one of these options: Capsule, Cream, Drops, Gel/ Lotion, Inhaler, Injection, Powder, Mouthwash, Spray, Syrup, Tablet, Suppository, Other.
 
-> After selecting the med type, note that its image is changed.
+!!! tip ""
+	After selecting the med type, note that its image is changed.
 
 **4.** Add a *name* to the medicine. `Required`
 
