@@ -10,9 +10,7 @@ You can do it with a few simple steps. Let's see how it works?
 
 -----
 
-**1.** From the Medicine's tab, tap **Add** 
-
-![](/images/button_add_med.png)
+**1.** From the Medicine's tab, tap **Add** (+)
 
 **2.** On the next screen, you can select a background colour. There are five different colours to help you to better organize your list. Try them out!!
 
@@ -47,7 +45,7 @@ Here is where you relate the medicine to the patient. This is for your own infor
 
 **8.** Add a *note*. `Optional`
 
-**9.** After fill in all required fields, tap **Save** to add the new medicine. ![Save medicine](/images/button-save-med.png)
+**9.** After fill in all required fields, tap **Save** to add the new medicine.
 
 **Result**
 
