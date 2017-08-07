@@ -54,7 +54,7 @@ Tap *OK*
 -----
 ## View your request details
 
-While you friend doesn't respond your request, if you tap him/her from the list you'll see the buttons **Waiting** (a question mark) and **Delete**
+While you friend doesn't respond your request, if you tap him/her from the list you'll see the buttons **Waiting** (question mark) and **Delete**
 
 ![] (images/waiting_response.png)
 
