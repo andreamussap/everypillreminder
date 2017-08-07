@@ -1,7 +1,7 @@
 # EveryPill Reminder App
 
 - Have you ever missed the time to take your medication?
-- Do you struggle to keep track of the correct dosage and time of meds for you or your beloved ones, and you find it an almost impossible task?
+- Do you struggle to keep track of the correct dosage and time of meds for you or your beloved ones?
 
 If you feel like that, you're not alone. Due to our modern and active lifestyle, more than ever we need to take pills, vitamins, and tonics among others, to improve our health. It's almost an impossible task to manually control all of this, let alone if you need to control it for you and your beloved ones!
 
@@ -30,7 +30,7 @@ With **EveryPill Reminder**, pharmaceutical information can be shared(*) between
 Sign in with your **Google** or **Facebook** account to use the **EveryPill Reminder Chat**. 
 
 !!! danger ""
-	Your data is always saved when you are logged in with an account, and it can be accessed on any device: no need to register again.**
+	Your data is always saved when you are logged in with an account, and it can be accessed on any device: no need to register again.
 
 You can also sign in as a Guest, but if you change devices your data will be lost.
 

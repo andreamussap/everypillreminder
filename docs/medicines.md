@@ -64,7 +64,8 @@ The medicine's tab lists all added medication.
 
 The list displays the med's icon, name, and the alarm, that can be ON or OFF.
 
-**When you add a new med, the alarm is set by default. To turn it off, just tap the alarm icon.**
+!!! danger ""
+	When you add a new med, the alarm is set by default. To turn it off, just tap the alarm icon.
 
 
 ## Edit a medicine
@@ -73,7 +74,7 @@ Tap a medicine to edit its information.
 
 On the edition screen, update the required fields and tap the drop-down menu.
 
-From the drop-down menu, select *Save medicine*
+From the drop-down menu, select *Save medicine*.
 
 |![](/images/medicine_editor01.png) |![](/images/medicine_editor03.png)|
 
@@ -86,21 +87,21 @@ From the drop-down menu, select *Save medicine*
 
 ## Delete a medicine
 
-**1.** To delete a med, tap it from the list of medicines
+**1.** To delete a med, tap it from the list of medicines.
 
-**2.** On the edition screen, tap the drop-down menu
+**2.** On the edition screen, tap the drop-down menu.
 
-**3.** From the drop-down menu, select *Remove medicine*
+**3.** From the drop-down menu, select *Remove medicine*.
 
-**4.** Message *'Do you want to remove <medicine_name>?'* is displayed
+**4.** Message *'Do you want to remove <medicine_name>?'* is displayed.
 
 **5.** Tap *OK* to confirm.
 
 **Result**
 
 - You're redirected to medicine's list
-- The removed medicine is not on the list anymore.
-- Message *'Medicine deleted'* is displayed.
+- The removed medicine is not on the list anymore
+- Message *'Medicine deleted'* is displayed
 
 
 ## Share a medicine
@@ -112,28 +113,28 @@ From the drop-down menu, select *Save medicine*
 
 **1.** Tap a medicine to share its information.
 
-**2.** On the edition screen, tap the drop-down menu
+**2.** On the edition screen, tap the drop-down menu.
 
-**3.** From the drop-down menu, select *Share medicine*
+**3.** From the drop-down menu, select *Share medicine*.
 
-- A popup is displayed
+- A popup is displayed.
 
-**4.** On the popup, tap *'Tap to select a friend'*
+**4.** On the popup, tap *'Tap to select a friend'*.
 
-- The list of friends is displayed
+- The list of friends is displayed.
 
-**5.** Select one friend from the list
+**5.** Select one friend from the list.
 
-- The name of the friend is displayed
+- The name of the friend is displayed.
 
-**6.** Tap *Share*
+**6.** Tap *Share*.
 
 **Result**
 
 - You are redirected to the list of meds.
 - Message *'Medicine shared'* is displayed.
 
-> You can only share one medicine at a time with the **same friend**. If you try to share a second medicine with someone, and he/she didn't respond (Accept or Reject) your previous request yet, the message: *'Your friend must first respond to the previous request'* is displayed
+> You can only share one medicine at a time with the **same friend**. If you try to share a second medicine with someone, and he/she didn't respond (Accept or Reject) your previous request yet, the message: *'Your friend must first respond to the previous request'* is displayed.
 
 
 ## Respond to a request
@@ -145,7 +146,7 @@ The alarm for a shared med won't sound until you accept the request.
 ![](/images/medicine.png)
 
 
-To **accept** a request, tap *Accept*
+To **accept** a request, tap *Accept*.
 
 Message *'Do you want to add (medicine's name) sent by (friend's name)?'* is displayed.
 
@@ -159,13 +160,14 @@ Tap [OK] to accept it.
 
 To **reject** a request, tap *Reject*
 
-Message *'Do you want to remove (medicine's name) sent by (friend's name)?'* is displayed
+Message *'Do you want to remove (medicine's name) sent by (friend's name)?'* is displayed.
 
-Tap [OK] to reject it
+Tap [OK] to reject it.
 
 **Result**
 
 - The medicine is removed from the list
 - Message *'Medicine deleted* is displayed
 
-> Remember that while you don't respond to your friend's request, either accepting or rejecting it, he/she won't be able to share another medicine with you.
+!!! note "Remember"
+	While you don't respond to your friend's request, either accepting or rejecting it, he/she won't be able to share another medicine with you.

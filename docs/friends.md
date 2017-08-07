@@ -1,8 +1,8 @@
 # Friends
 
-Adding a friend is **required** when you want to share pharmaceutical information with others
+Adding a friend is **required** when you want to share pharmaceutical information with others.
 
-Thinking about those who share the management of medications, **AFMussap Tech** developed this feature to help you to better coordinate this task
+Thinking about those who share the management of medications, **AFMussap Tech** developed this feature to help you to better coordinate this task.
 
 Let's have a look at two examples of how this works.
 
@@ -25,23 +25,24 @@ There are two ways for adding friends to **EveryPill Reminder**:
 
 ### Send a request to a friend
 
-> **Note - You'll need the email that your friend uses to access EveryPill Reminder**
+!!! Note "Note: "
+	You'll need the email that your friend uses to access EveryPill Reminder.
 
-Access the tab **Friends** and tap **Add**
+Access the tab **Friends** and tap **Add**.
 
-You are redirected to the *'Add new friend'* screen, with a text box to enter an email, and a button to search
+You are redirected to the *'Add new friend'* screen, with a text box to enter an email, and a button to search.
 
-Enter your friend's email and tap *search*
+Enter your friend's email and tap *search*.
 
 If you typed the correct email, you'll see your friend's photo, name and account icon (Facebook or Gmail), and the **Add** (+) button.
 
 ![] (images/Add_friend2.png)
 
-Tap **Add**
+Tap **Add**.
 
-Message: *'Do you want to add (friend's name)?'* is displayed
+Message: *'Do you want to add (friend's name)?'* is displayed.
 
-Tap *OK*
+Tap *OK*.
 
 **Result**
 
@@ -54,40 +55,42 @@ Tap *OK*
 -----
 ## View your request details
 
-While you friend doesn't respond your request, if you tap him/her from the list you'll see the buttons **Waiting** (question mark) and **Delete**
+While your friend doesn't respond your request, if you tap him/her from the list you'll see the buttons **Waiting** (question mark) and **Delete**.
 
 ![] (images/waiting_response.png)
 
-By tapping **Waiting**, the message *'Waiting for (friend's name) response'* is displayed
+By tapping **Waiting**, the message *'Waiting for (friend's name) response'* is displayed.
 
-By tapping **Delete**, the message *'Cancel invitation to (friend's name)?'* is displayed. Tap *OK* to delete the request you've sent. In this case, your friend is removed from the list, and the message *'Friend deleted'* is displayed
+By tapping **Delete**, the message *'Cancel invitation to (friend's name)?'* is displayed. Tap *OK* to delete the request you've sent. In this case, your friend is removed from the list, and the message *'Friend deleted'* is displayed.
 
-Once your friend accepts your request, if you tap he/she from the list you'll see the buttons **Chat** (envelop) and **Delete**
+Once your friend accepts your request, if you tap he/she from the list you'll see the buttons **Chat** (envelop) and **Delete**.
 
-Tap **Chat** to send message, or to start talk to him/her
+Tap **Chat** to send message, or to start talk to him/her.
 
-> **EveryPill Reminder** chat doesn't send notifications. To see a message that was sent to you, you have to access the tab **Chat**
+!!! danger "Note: "
+	EveryPill Reminder** chat doesn't send notifications. To see a message that was sent to you, you have to access the tab **Chat**.
 
-Tap **Delete** if you want to remove this friend
+Tap **Delete** if you want to remove this friend.
 
 -----
 ## Add friends by accepting their invitation
 
-If others send you a request, you'll see them on your list of friends
+If others send you a request, you'll see them on your list of friends.
 
-Tap the relevant friend, and you'll see the buttons **Accept** and **Delete**
+Tap the relevant friend, and you'll see the buttons **Accept** and **Delete**.
 
-Tap **Accept** to accept the request
+Tap **Accept** to accept the request.
 
-Message *'Add (friend's name) as a friend?* is displayed
+Message *'Add (friend's name) as a friend?* is displayed.
 
-Tap *OK*, and he/she will be added to your list of friends
+Tap *OK*, and he/she will be added to your list of friends.
 
-> **Remember** - Just those who uses **EveryPill Reminder** and know your email (the email that you use to access the App) can send requests to you.
+!!! tip "Note: "
+	Just those who uses **EveryPill Reminder** and know your email (the email that you use to access the App) can send requests to you.
 
-If your friend cancel the invitation that he/she has sent to you before you accept it, when you tap he/she from the list you'll see the **Waiting** (a question mark) and **Delete** buttons 
+If your friend cancel the invitation that he/she has sent to you before you accept it, when you tap he/she from the list you'll see the **Waiting** (a question mark) and **Delete** buttons.
 
-However, the **Waiting** button will display *'(friend's name) is not available anymore'*, and the **Delete** button will display *'Remove (friend's name) and all messages?'*
+However, the **Waiting** button will display *'(friend's name) is not available anymore'*, and the **Delete** button will display *'Remove (friend's name) and all messages?'*.
 
 In this case, you have two options:
 
@@ -97,19 +100,18 @@ In this case, you have two options:
 -----
 ## Delete a friend
 
-- Delete an invitation that you've sent - if your friend didn't accept it yet
+- Delete an invitation that you've sent - if your friend didn't accept it yet.
 
-- Delete friend that has deleted you
+- Delete friend that has deleted you.
 
-To delete a friend, just tap he/she from the list and then tap **Delete**
+To delete a friend, just tap he/she from the list and then tap **Delete**.
 
-Message: *'Remove (friend's name) and all messages?'* is displayed
+Message: *'Remove (friend's name) and all messages?'* is displayed.
 
-Tap *OK*
+Tap *OK*.
 
 **Result**
 
 - You're redirected to the friend's list
-- Friend is deleted from the list of friends
+- The friend is removed from this list (You can't share medicines with him/her anymore)
 - Message: *'Friend deleted'* is displayed
-- Friend is deleted from the sharing medication list, and you can't share information with him/her anymore
