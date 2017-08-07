@@ -50,5 +50,5 @@ Tap *Cancel* to continue using the App, or *OK* to sign out from it.
 
 The *Premium* version allows you to share information (medication's name, frequency, alarm, etc) with others.
 
-!!! danger ""
+!!! danger "Important"
 	The Premium version is associated to the logged user. If you have more than one Google account, and you want the Premium version for all of them, you need to log in with *each account*, and buy the Premium version for each one of them.

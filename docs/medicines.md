@@ -64,7 +64,7 @@ The medicine's tab lists all added medication.
 
 The list displays the med's icon, name, and the alarm, that can be ON or OFF.
 
-!!! danger ""
+!!! danger "Tip"
 	When you add a new med, the alarm is set by default. To turn it off, just tap the alarm icon.
 
 

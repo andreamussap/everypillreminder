@@ -25,7 +25,7 @@ There are two ways for adding friends to **EveryPill Reminder**:
 
 ### Send a request to a friend
 
-!!! Note "Note: "
+!!! Note "Note"
 	You'll need the email that your friend uses to access EveryPill Reminder.
 
 Access the tab **Friends** and tap **Add**.
@@ -67,8 +67,8 @@ Once your friend accepts your request, if you tap he/she from the list you'll se
 
 Tap **Chat** to send message, or to start talk to him/her.
 
-!!! danger "Note: "
-	EveryPill Reminder** chat doesn't send notifications. To see a message that was sent to you, you have to access the tab **Chat**.
+!!! danger "Important"
+	**EveryPill Reminder** chat doesn't send notifications. To see a message that was sent to you, you have to access the tab **Chat**.
 
 Tap **Delete** if you want to remove this friend.
 
@@ -85,7 +85,7 @@ Message *'Add (friend's name) as a friend?* is displayed.
 
 Tap *OK*, and he/she will be added to your list of friends.
 
-!!! tip "Note: "
+!!! tip "Tip"
 	Just those who uses **EveryPill Reminder** and know your email (the email that you use to access the App) can send requests to you.
 
 If your friend cancel the invitation that he/she has sent to you before you accept it, when you tap he/she from the list you'll see the **Waiting** (a question mark) and **Delete** buttons.

@@ -17,7 +17,7 @@ You'll be redirected to the *chat* screen, and you can talk from there.
 
 ## Delete chat 
 
-!!! danger "Note: "
+!!! danger "Important"
 	It's not possible to **delete** messages from the chat. 
 
 If you want to delete messages, you have delete your friend - so all your conversation will be deleted together with him/her. 
