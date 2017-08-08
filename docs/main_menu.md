@@ -1,6 +1,6 @@
 # Main Menu
 
-As soon as you log in to **EveryPill Reminder**, you can find its main menu at the top left corner.
+As soon as you log in to **EveryPill Reminder** you can find its main menu at the top left corner.
 
 ![Main menu at the top left corner](/images/main_menu.png)
 
